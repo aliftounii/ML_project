@@ -22,7 +22,8 @@ The dataset combines these inputs to identify patterns associated with different
 2. **Model Training**:
    - Supervised learning models are trained using labeled data of known surface types.
    - Features are mapped to surface categories.
-
+   - we have used both LSTM and GRU (RNN models) 
+ 
 3. **Evaluation**:
    - Models are evaluated using metrics like accuracy, precision, recall, and F1 score.
    - Confusion matrices are used to analyze misclassifications.
